@@ -4,52 +4,36 @@
 ### Maintainability 
 [![Maintainability](https://api.codeclimate.com/v1/badges/3bb09de06a71a4c624af/maintainability)](https://codeclimate.com/github/ukupnique/python-project-49/maintainability)
 
-<br># Brain Games<br><br>## Установка<br><br>Для установки пакета выполните следующую команду:<br><br>
-bash
-pip install . # Используйте, если находитесь в корневой директории проекта
-<br><br>## Запуск игры<br><br>Чтобы запустить игру «Проверка на четность», выполните команду:<br><br>
-bash
-brain-even
-<br><br>## Пример игры<br><br>Вот пример взаимодействия с пользователем:<br><br>
+# Brain Games
 
-Welcome to the Brain Games!
-May I have your name? Sam
-Hello, Sam!
-Answer "yes" if the number is even, otherwise answer "no".
-Question: 15
-Your answer: no
-Correct!
-Question: 6
-Your answer: yes
-Correct!
-Question: 7
-Your answer: no
-Correct!
-Congratulations, Sam!
-<br><br>### Варианты победы и поражения<br><br><strong>Поражение:</strong><br>
+## Установка
 
-Welcome to the Brain Games!
-May I have your name? Bill
-Hello, Bill!
-Answer "yes" if the number is even, otherwise answer "no".
-Question: 15
-Your answer: yes
-'yes' is wrong answer ;(. Correct answer was 'no'.
-Let's try again, Bill!
-<br><br><strong>Победа:</strong><br>
+Для установки пакета выполните следующую команду:
 
-Welcome to the Brain Games!
-May I have your name? Alice
-Hello, Alice!
-Answer "yes" if the number is even, otherwise answer "no".
-Question: 4
-Your answer: yes
-Correct!
-Question: 8
-Your answer: yes
-Correct!
-Question: 10
-Your answer: yes
-Correct!
-Congratulations, Alice!
-<br>
+<br>pip install . # Используйте, если находитесь в корневой директории проекта<br>
+
+
+## Запуск игры
+
+Чтобы запустить игру «Проверка на четность», выполните команду:
+
+<br>brain-even<br>
+
+
+## Пример игры
+
+Вот пример взаимодействия с пользователем:
+
+<br>Welcome to the Brain Games!<br>May I have your name? Sam<br>Hello, Sam!<br>Answer "yes" if the number is even, otherwise answer "no".<br>Question: 15<br>Your answer: no<br>Correct!<br>Question: 6<br>Your answer: yes<br>Correct!<br>Question: 7<br>Your answer: no<br>Correct!<br>Congratulations, Sam!<br>
+
+
+### Варианты победы и поражения
+
+Поражение:
+
+<br>Welcome to the Brain Games!<br>May I have your name? Bill<br>Hello, Bill!<br>Answer "yes" if the number is even, otherwise answer "no".<br>Question: 15<br>Your answer: yes<br>'yes' is wrong answer ;(. Correct answer was 'no'.<br>Let's try again, Bill!<br>
+
+
+Победа:
+
+<br>Welcome to the Brain Games!<br>May I have your name? Alice<br>Hello, Alice!<br>Answer "yes" if the number is even, otherwise answer "no".<br>Question: 4<br>Your answer: yes<br>Correct!<br>Question: 8<br>Your answer: yes<br>Correct!<br>Question: 10<br>Your answer: yes<br>Correct!<br>Congratulations, Alice!<br>
