@@ -12,20 +12,17 @@
 
 <br>pip install . # Используйте, если находитесь в корневой директории проекта<br>
 
-
 ## Запуск игры
 
 Чтобы запустить игру «Проверка на четность», выполните команду:
 
 <br>brain-even<br>
 
-
 ## Пример игры
 
 Вот пример взаимодействия с пользователем:
 
 <br>Welcome to the Brain Games!<br>May I have your name? Sam<br>Hello, Sam!<br>Answer "yes" if the number is even, otherwise answer "no".<br>Question: 15<br>Your answer: no<br>Correct!<br>Question: 6<br>Your answer: yes<br>Correct!<br>Question: 7<br>Your answer: no<br>Correct!<br>Congratulations, Sam!<br>
-
 
 ### Варианты победы и поражения
 
