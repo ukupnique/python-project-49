@@ -4,6 +4,7 @@
 ### Maintainability 
 [![Maintainability](https://api.codeclimate.com/v1/badges/3bb09de06a71a4c624af/maintainability)](https://codeclimate.com/github/ukupnique/python-project-49/maintainability)
 
+<br><br>## Вставка видео<br><br>[![asciicast](https://asciinema.org/a/F8QzddtUoDBb9qh3fr8kR479j.png)](https://asciinema.org/a/F8QzddtUoDBb9qh3fr8kR479j)<br>
 # Brain Games
 
 ## Установка
