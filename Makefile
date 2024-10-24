@@ -7,6 +7,9 @@ brain-games:
 brain-even:
 	poetry run brain-even
 
+brain-calc:
+	poerty run brain-calc
+
 build:
 	poetry build
 
