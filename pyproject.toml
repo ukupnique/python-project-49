@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "my games project"
+classifiers = ["Development Status :: 5 - Production/Stable"]
 authors = ["Eugen <ukupnique@gmail.com>"]
 readme = "README.md"
+repository = 'https://github.com/ukupnique/python-project-49'
 packages = [
   { include = "brain_games" },
 ]

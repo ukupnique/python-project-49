@@ -12,7 +12,7 @@ def run_game(generate_question, rules):
         print(f"Question: {question}")
         user_answer = input("Your answer: ")
 
-        if user_answer.isdigit() and int(user_answer) == correct_answer:
+        if user_answer.lstrip('-').isdigit() and int(user_answer) == correct_answer:
             print("Correct!")
             true_answer_count += 1
         elif user_answer.isalpha() and user_answer == correct_answer:
