@@ -1,66 +1,42 @@
- <strong>Brain Games</strong>
+# <strong>Brain Games</strong>
 
- 
+This repository was created as part of a Hexlet study project. "Brain Games" is a collection of five console games. In each game, players are presented with questions that must be answered correctly. Upon providing three correct answers, the game is considered complete. An incorrect answer ends the game and prompts the player to try again.
 
-This repository was created as part of a Hexlet study project. "Brain Games" is a collection of five console games. In each game, players are presented with questions that must be answered correctly. Upon providing three correct answers, the game is considered complete. An incorrect answer ends the game and prompts the player to try again. 
+## How to Install
 
- 
-<b>How to install</b> 
+bash
 
- 
+git clone https://github.com/ukupnique/python-project-49
 
-git clone https://github.com/ukupnique/python-project-49  
+cd python-project-49/
 
-cd python-project-49/ 
+make install
 
-#install poetry 
 
-make install 
+## Games
 
- 
+### 1. Checking a number for even
+Command to start the game: <code>brain-even</code>  
+[![asciicast](https://asciinema.org/a/T6VBACD2Dm5cVini5RYBF85QF.png)](https://asciinema.org/a/T6VBACD2Dm5cVini5RYBF85QF)   
+---
 
-<b>Games </b>
+### 2. Calculator
+Command to start the game: <code>brain-calc</code>  
+[![asciicast](https://asciinema.org/a/psDVFkJ0zt0TWWqboZHVgQSmt.png)](https://asciinema.org/a/psDVFkJ0zt0TWWqboZHVgQSmt)    
+---
 
- 
+### 3. Find the greatest common divisor
+Command to start the game: <code>brain-gcd</code>  
+[![asciicast](https://asciinema.org/a/NIC1V5LBrJztjnkvPURCp0ACG.png)](https://asciinema.org/a/NIC1V5LBrJztjnkvPURCp0ACG)   
+---
 
-<b>Checking a number for even  </b>
+### 4. Find missing number in the progression  
+Command to start the game: <code>brain-progression</code>   
+[![asciicast](https://asciinema.org/a/k5ilH9rLnd2Opvz0MUP6oTvDW.png)](https://asciinema.org/a/k5ilH9rLnd2Opvz0MUP6oTvDW)    
+---
 
-Command to start the game - <b>brain-even</b> 
+### 5. Definition of a prime number 
+Command to start the game: <code>brain-prime</code>   
+[![asciicast](https://asciinema.org/a/9GaBun2RsdMEolN0TGYdIvJNX.png)](https://asciinema.org/a/9GaBun2RsdMEolN0TGYdIvJNX)    
+---
 
-[brain-even](https://asciinema.org/a/T6VBACD2Dm5cVini5RYBF85QF) 
-
- 
-
-Calculator  
-
-Command to start the game - brain-calc 
-
-[brain- calc](https://asciinema.org/a/psDVFkJ0zt0TWWqboZHVgQSmt) 
-
- 
-
-<b>Find the greatest common divisor</b>  
-
-Command to start the game - <b>brain-gcd</b> 
-
-[brain- gcd](https://asciinema.org/a/NIC1V5LBrJztjnkvPURCp0ACG) 
-
- 
-
-<b>Find missing number in the progression</b>  
-
-Command to start the game - brain-progression 
-
-[brain- progression](https://asciinema.org/a/k5ilH9rLnd2Opvz0MUP6oTvDW) 
-
- 
-
-<b>Definition of a prime number</b>  
-
-Command to start the game - <b>brain-prime</b> 
-
-[brain- prime](https://asciinema.org/a/9GaBun2RsdMEolN0TGYdIvJNX) 
-
- 
-
- 
