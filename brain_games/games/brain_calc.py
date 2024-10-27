@@ -7,8 +7,8 @@ OPERATIONS = ['+', '-', '*']
 
 
 def generate_question():
-    num1 = random.randint(1, 100)
-    num2 = random.randint(1, 100)
+    num1 = random.randint(-50, 50)
+    num2 = random.randint(-50, 50)
     operation = random.choice(OPERATIONS)
     question = f"{num1} {operation} {num2}"
     correct_answer = eval(f"{num1} {operation} {num2}")
