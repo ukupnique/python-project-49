@@ -1,32 +1,66 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/ukupnique/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ukupnique/python-project-49/actions)
+ <strong>Brain Games</strong>
 
-### Maintainability
-[![Maintainability](https://api.codeclimate.com/v1/badges/3bb09de06a71a4c624af/maintainability)](https://codeclimate.com/github/ukupnique/python-project-49/maintainability)
+ 
 
-# Brain Games
+This repository was created as part of a Hexlet study project. "Brain Games" is a collection of five console games. In each game, players are presented with questions that must be answered correctly. Upon providing three correct answers, the game is considered complete. An incorrect answer ends the game and prompts the player to try again. 
 
-## Установка
+ 
+<b>How to install</b> 
 
-Для установки пакета выполните следующую команду:
+ 
 
+git clone https://github.com/ukupnique/python-project-49  
 
-pip install .  # Используйте, если находитесь в корневой директории проекта
+cd python-project-49/ 
 
+#install poetry 
 
-## Запуск игры
+make install 
 
-Чтобы запустить игру «Проверка на четность», выполните команду:
+ 
 
+<b>Games </b>
 
-brain-even
+ 
 
+<b>Checking a number for even  </b>
 
-Чтобы запустить игру «Калькулятор», выполните команду:
+Command to start the game - <b>brain-even</b> 
 
+[brain-even](https://asciinema.org/a/T6VBACD2Dm5cVini5RYBF85QF) 
 
-brain-calc
+ 
 
+Calculator  
 
-## Пример использования
-[![asciicast](https://asciinema.org/a/F8QzddtUoDBb9qh3fr8kR479j.png)](https://asciinema.org/a/YymXJFLose3jB0X0JEJK47XTj)
+Command to start the game - brain-calc 
+
+[brain- calc](https://asciinema.org/a/psDVFkJ0zt0TWWqboZHVgQSmt) 
+
+ 
+
+<b>Find the greatest common divisor</b>  
+
+Command to start the game - <b>brain-gcd</b> 
+
+[brain- gcd](https://asciinema.org/a/NIC1V5LBrJztjnkvPURCp0ACG) 
+
+ 
+
+<b>Find missing number in the progression</b>  
+
+Command to start the game - brain-progression 
+
+[brain- progression](https://asciinema.org/a/k5ilH9rLnd2Opvz0MUP6oTvDW) 
+
+ 
+
+<b>Definition of a prime number</b>  
+
+Command to start the game - <b>brain-prime</b> 
+
+[brain- prime](https://asciinema.org/a/9GaBun2RsdMEolN0TGYdIvJNX) 
+
+ 
+
+ 
